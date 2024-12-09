@@ -6,7 +6,7 @@ This repository contains three Bash scripts designed to facilitate Strand-Seq da
 ## System Requirements
 - Bash (tested on Unix/Linux systems)
 - Properly formatted input files (see script-specific instructions below)
-
+--- 
 ### 1. `five_cells.sh` 
 - 
 **Description**: Filters data to retain only 5 cells per sample, ensuring a standardized sample size for analysis. 
